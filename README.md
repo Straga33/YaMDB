@@ -8,8 +8,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Straga33/YaMDB)
-![GitHub repo size](https://img.shields.io/github/repo-size/Straga33/YaMDB)
-![GitHub](https://img.shields.io/github/license/Straga33/YaMDB)
 ![pythonversion](https://img.shields.io/badge/python-%3E%3D3.7-blue)
 
 ## Стек технологий
