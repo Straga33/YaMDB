@@ -3,12 +3,21 @@
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Title). Произведения делятся на категории: "Книги", "Фильмы", "Музыка". Список категорий (Category) может быть расширен.
 Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
 
-## Разработчики
-1 Разработчик - Басков Михаил (baem-festa@yandex.ru)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-2 Разработчик - Юрченко Валерий (valerayurchenko14@yandex.ru) - Тимлид
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Straga33/YaMDB)
+![GitHub repo size](https://img.shields.io/github/repo-size/Straga33/YaMDB)
+![GitHub](https://img.shields.io/github/license/Straga33/YaMDB)
+![pythonversion](https://img.shields.io/badge/python-%3E%3D3.7-blue)
 
-3 Разработчик - Grigory Plakhotnikov (ru-grigoriy@yandex.ru)
+## Стек технологий
+- проект написан на Python с использованием Django REST Framework
+- библиотека Simple JWT - работа с JWT-токеном
+- библиотека django-filter - фильтрация запросов
+- базы данны - SQLite3
+- система управления версиями - git
 
 ### Примеры эндпоинтов:
 
@@ -91,3 +100,11 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+
+### Разработчики
+1 Разработчик - Басков Михаил (baem-festa@yandex.ru)
+
+2 Разработчик - Юрченко Валерий (valerayurchenko14@yandex.ru)
+
+3 Разработчик - Grigory Plakhotnikov (ru-grigoriy@yandex.ru)
